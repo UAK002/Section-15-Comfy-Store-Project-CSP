@@ -1,4 +1,4 @@
 const SingleProduct = () => {
-  return <h1 className="text-4xl">About</h1>;
+  return <h1 className="text-4xl">SingleProduct</h1>;
 };
 export default SingleProduct;
